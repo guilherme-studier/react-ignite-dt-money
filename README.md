@@ -1,8 +1,3 @@
-<!-- Logotipo -->
-<div align="center">
-  <img src="./Assets/ignite.png">
-</div>
-
 <!-- Title -->
 <h1 align="center"> RocketSeat 🔥 Ignite ReactJS </h1>
 
@@ -15,7 +10,7 @@ DT Money é um controle de contas financeiro pessoal que cadastra contas de entr
 
 ## 🖼️ Imagens do Projeto
 <div align="center">
-  <img src="./assets/dt-money-screenshot.png">
+  <img src=".src/assets/dt-money-screenshot.png">
 </div>
 
 ## 🧰 Tecnologias e Bibliotecas
